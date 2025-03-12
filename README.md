@@ -4,10 +4,9 @@
 This is an interactive **Tarot Reading Web App** built with **Streamlit** and **Generative AI**. It allows users to draw tarot cards, view their meanings, and get **AI-powered interpretations** using Hugging Face's LLM models.
 
 ---
-
-## 🎮 Live Demo
-[🔮 Try the Tarot App Here!]([https://your-streamlit-app-link.streamlit.app/](https://tarotreadingusinggenai-2e2ancsujokjrwq3j9spc2.streamlit.app/))  
-*(Click the link to get your AI-powered tarot reading! 🚀)*
+## 🎮 Live Demo  
+[🔮 Try the Tarot App Here! 🚀](https://tarotreadingusinggenai-2e2ancsujokjrwq3j9spc2.streamlit.app/)  
+*(Click the link to get your AI-powered tarot reading! 🔮✨)*
 
 ---
 
