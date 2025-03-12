@@ -30,7 +30,7 @@ cards = tarot_data["cards"]  # Extract list of tarot cards
 
 # Set the image folder path
 image_folder = os.path.join(os.getcwd(), "cards")
-image_path = os.path.join(image_folder, card["img"])
+image_path = os.path.join(image_folder, cards["img"])
  # Make sure your images are stored in this folder
 
 # Function to get AI-generated tarot reading using Hugging Face API
