@@ -1,0 +1,1 @@
+# tarot_reading_Using_GEN_AI
